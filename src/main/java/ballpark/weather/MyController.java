@@ -8,6 +8,6 @@ public class MyController {
 
     @GetMapping("/")
     public String acbcd() {
-        return "home";
+        return "weatherpage";
     }
 }
