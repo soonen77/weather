@@ -2,8 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <link rel="icon" href="C:\Users\ezen\Desktop/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="C:\Users\ezen\Desktop/favicon.ico" type="image/x-icon">
   <title>KBO 야구장 날씨</title>
   <link rel="stylesheet" href="/css/styles.css"></link>
 </head>
